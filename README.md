@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/avv3Bjk.png" alt="Pagina en Construcción" />
+<img src="https://i.imgur.com/VHiBR6c.png" alt="Pagina en Construcción" />
 
 ## 👷🏻🚧 PAGINA EN CONSTRUCCIÓN 🚧👷🏻
 
