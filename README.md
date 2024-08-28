@@ -18,6 +18,7 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw ðŸ§‘ð
 -  [Lemmy](https://lemmy.world/u/Galisma)
 -  [Matrix](https://matrix.to/#/@galisma:matrix.org)
 -  [Discord](https://discord.gg/xDgkDNCmqN)
+-  [Instalagram](https://www.youtube.com/watch?v=UUwMMBodDvU)
 -  Email (En el perfil)
 
 <details>
