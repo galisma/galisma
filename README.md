@@ -11,7 +11,7 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw ðŸ§‘ð
 - Estoy aprendiendo mas cosas
 
 ### Redes
--  [Github :D](https://github.com/galisma)
+-  [Github](https://github.com/galisma)
 -  [Twitter](https://x.com/Galismax)
 -  [Youtube](https://www.youtube.com/@galisma)
 -  [Mastodon](https://mastodon.social/@Galisma)
