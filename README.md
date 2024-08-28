@@ -1,2 +1,29 @@
-<img src="https://i.imgur.com/QbwCeLO.png"></img>
-Lorem ipsum solor sit amet
+<img src="https://i.imgur.com/QbwCeLO.png" alt="Pagina en Construcción" />
+
+## 👷🏻🚧 PAGINA EN CONSTRUCCIÓN 🚧👷🏻
+
+### Sobre mi
+Soy estudiante de informática, trato de aprender por mi cuenta en mis tiempos libres. <br> 
+Quiero contribuir al software libre en cuanto este preparado. Uso arch btw 🧑🏻‍💻 <br>
+
+### Habilidades
+- **C++**
+- Estoy aprendiendo mas cosas
+
+### Redes
+-  [Github :D](https://github.com/galisma)
+-  [Twitter](https://x.com/Galismax)
+-  [Youtube](https://www.youtube.com/@galisma)
+-  [Mastodon](https://mastodon.social/@Galisma)
+-  [Lemmy](https://lemmy.world/u/Galisma)
+-  Matrix 👷🏻🚧 En construccion 👷🏻🚧
+-  Discord 👷🏻🚧 En construccion 👷🏻🚧
+-  Email (En el perfil)
+
+<details>
+  <summary><i></i></summary>
+
+  ### Mi nueva fé
+  <img src="https://www.lavondyss.net/wp-content/uploads/2006/11/saintignucius.jpg" alt="Saint Ignucius" /> <br>
+  > No hay más sistema como GNU, y Linux es uno de sus núcleos - San iGNUcio
+</details>
