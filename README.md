@@ -17,7 +17,7 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw 🧑�
 -  [Mastodon](https://mastodon.social/@Galisma)
 -  [Lemmy](https://lemmy.world/u/Galisma)
 -  Matrix 👷🏻🚧 En construccion 👷🏻🚧
--  Discord 👷🏻🚧 En construccion 👷🏻🚧
+-  [Discord](https://discord.gg/xDgkDNCmqN)
 -  Email (En el perfil)
 
 <details>
