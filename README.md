@@ -26,5 +26,5 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw 🧑�
 
   ### Mi nueva fé
   <img src="https://www.lavondyss.net/wp-content/uploads/2006/11/saintignucius.jpg" alt="Saint Ignucius" /> <br>
-  > No hay sistema excepto GNU, y Linux es uno de sus núcleos - San iGNUcio
+  > No hay sistema más que GNU, y Linux es uno de sus núcleos - San iGNUcio
 </details>
