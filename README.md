@@ -8,7 +8,7 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw 🧑�
 
 ### Habilidades
 - **C++**
-- Estoy aprendiendo mas cosas
+- Se un poco de todo... ¿Eso cuenta?
 
 ### Redes
 -  [Github](https://github.com/galisma)
