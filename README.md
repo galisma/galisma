@@ -10,6 +10,9 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw 🧑�
 - **C++**
 - Se un poco de todo... ¿Eso cuenta?
 
+### Proyectos
+- Estoy trabanado en mi propio motor, [Tuga](https://github.com/galisma/Tuga)
+
 ### Redes
 -  [Github](https://github.com/galisma)
 -  [Twitter](https://x.com/Galismax)
