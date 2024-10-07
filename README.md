@@ -8,7 +8,7 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw ðŸ§‘ð
 
 ### Habilidades
 - **C++**
-- Cualquier lenguaje mas sencillo que c++
+- Javascrpt, Python, Lua, C, Java, SQL, etc..
 - Rust (proximamente)
 
 ### Proyectos
