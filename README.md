@@ -8,7 +8,8 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw 🧑�
 
 ### Habilidades
 - **C++**
-- Se un poco de todo... ¿Eso cuenta?
+- Cualquier lenguaje mas sencillo que c++
+- Rust (proximamente)
 
 ### Proyectos
 - Estoy trabanado en mi propio motor [Tuga](https://github.com/galisma/Tuga)
