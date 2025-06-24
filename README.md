@@ -5,8 +5,8 @@ Soy estudiante de informática, trato de aprender por mi cuenta en mis tiempos l
 Quiero contribuir al software libre en cuanto este preparado. Uso ~~arch~~ Nix btw <br>
 
 ### Habilidades
-- **C++**
-- Javascript, Python, Lua, C, Java, SQL, etc..
+- Decente: **C++**
+- Meh: Javascript, Python, Lua, C, Java, SQL, etc..
 - Pendiente: Haskell, Rust
 
 <details>
