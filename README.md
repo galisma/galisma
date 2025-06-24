@@ -7,7 +7,7 @@ Quiero contribuir al software libre en cuanto este preparado. Uso arch btw ðŸ§‘ð
 ### Habilidades
 - **C++**
 - Javascript, Python, Lua, C, Java, SQL, etc..
-- Rust (proximamente)
+- Pendiente: Haskell, Rust
 
 <details>
   <summary><i></i></summary>
